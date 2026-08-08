@@ -1,16 +1,82 @@
-## Hi there 👋
+# Hi, I'm Aryan Panigrahi
 
-<!--
-**aryan-panigrahi/aryan-panigrahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & Data Science Student | Developer | AI & Linux Enthusiast
 
-Here are some ideas to get you started:
+I'm an AI & Data Science student at **MIT-WPU** interested in building practical software and exploring how AI can be used to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working with **AI/ML, local LLMs, software development, Linux, automation, and intelligent systems**.
+
+---
+
+## About Me
+
+- Currently exploring **Artificial Intelligence & Machine Learning**
+- Building projects with **Python, C/C++, JavaScript, HTML & CSS**
+- Experimenting with **local LLMs and AI-powered applications**
+- Interested in **Linux, systems, automation, and software engineering**
+- I like taking an idea and turning it into something that actually works
+- Always learning, experimenting, and occasionally breaking my Linux setup
+
+---
+
+## Tech Stack
+
+**Languages**
+
+`Python` `C` `C++` `JavaScript` `HTML` `CSS`
+
+**AI / Development**
+
+`AI/ML` `LLMs` `Ollama` `Git` `GitHub`
+
+**Environment**
+
+`Linux` `Arch Linux` `Windows`
+
+---
+
+## Projects
+
+### AI Resume Critiquer
+An AI-powered resume analysis project that evaluates resumes against job descriptions and provides feedback on skills, relevance, and presentation.
+
+**Tech:** HTML · CSS · JavaScript · AI/LLMs
+
+### Gesture Action Motion Engine
+A Python project exploring gesture-based interaction and motion recognition.
+
+**Tech:** Python · Computer Vision
+
+### Quant-Edge
+A JavaScript-based project focused on quantitative and data-driven applications.
+
+**Tech:** JavaScript
+
+---
+
+## Currently Learning
+
+- Artificial Intelligence
+- Machine Learning
+- Local LLMs
+- Software Engineering
+- Linux & Systems
+- Automation
+- Data Structures & Algorithms
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan-panigrahi&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-panigrahi&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+> Build it. Break it. Understand it. Build it better.
+
+<p align="center">
+  <i>Always learning. Always building.</i>
+</p>
