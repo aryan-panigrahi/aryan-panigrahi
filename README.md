@@ -66,12 +66,16 @@ A JavaScript-based project focused on quantitative and data-driven applications.
 
 ---
 
-## GitHub Stats
+## What I'm Working On
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryan-panigrahi&show_icons=true&theme=github_dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-panigrahi&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+Currently building projects around:
+
+- Artificial Intelligence & Machine Learning
+- Local LLMs
+- Software Development
+- Linux & Systems
+- Automation
+- Data Structures & Algorithms
 
 ---
 
