@@ -1,86 +1,55 @@
 # Hi, I'm Aryan Panigrahi
 
-### AI & Data Science Student | Developer | AI & Linux Enthusiast
+### AI & Data Science Student | Python Developer | Building AI and Full-Stack Projects
 
-I'm an AI & Data Science student at **MIT-WPU** interested in building practical software and exploring how AI can be used to solve real-world problems.
+I'm pursuing a B.Tech in Computer Science & Engineering (AI & Data Science) at Dr. Vishwanath Karad MIT World Peace University. I enjoy building practical software with AI agents, machine learning, and full-stack tools.
 
-I enjoy working with **AI/ML, local LLMs, software development, Linux, automation, and intelligent systems**.
+I'm also a Tech Team Member at Synapse, MIT-WPU's official AI club, where I contribute to AI projects, workshops, and events.
 
----
+- 🎓 Based in Pune, India
+- 🔭 Exploring AI agents, machine learning, and software engineering
+- 🧰 Working with Python, FastAPI, React, SQL, and Docker
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aryan-panigrahi/)
 
-## About Me
+## Featured Projects
 
-- Currently exploring **Artificial Intelligence & Machine Learning**
-- Building projects with **Python, C/C++, JavaScript, HTML & CSS**
-- Experimenting with **local LLMs and AI-powered applications**
-- Interested in **Linux, systems, automation, and software engineering**
-- I like taking an idea and turning it into something that actually works
-- Always learning, experimenting, and occasionally breaking my Linux setup
+### [The Arbiter — Forensic Compliance & Regression Agent](https://github.com/aryan-panigrahi/The-Arbiter)
+Built an agentic workflow that finds, fixes, and validates code regressions and policy violations. Includes a five-check validation gate, human approval for uncertain or high-severity fixes, and an append-only audit log. Integrated with IBM Bob 2.0 through a custom MCP server.
 
----
+**Tools:** Python, MCP, LibCST, pytest, Bandit
 
-## Tech Stack
+### [Shift Handover Briefing](https://github.com/aryan-panigrahi/Shift-Handover-Project)
+Built a service that turns machine logs, maintenance notes, voice memos, and equipment manuals into a prioritized shift handover with links back to source evidence. Achieved 100% citation validity and 0% unsupported claims on a 10-case synthetic benchmark.
 
-**Languages**
+**Tools:** Python, FastAPI, SQLite, Pydantic, Docker
 
-`Python` `C` `C++` `JavaScript` `HTML` `CSS`
+### [Quant Edge — NSE Precision Engine](https://github.com/aryan-panigrahi/Quant-Edge)
+Built a market analysis terminal with Nifty 50 and India VIX tracking, technical-indicator signals, price forecasting, and offline sentiment analysis.
 
-**AI / Development**
+**Tools:** Python, FastAPI, React, Vite, scikit-learn, pandas, NumPy
 
-`AI/ML` `LLMs` `Ollama` `Git` `GitHub`
+### [Scope — Local AI Resume Critiquer](https://github.com/aryan-panigrahi/Scope)
+Built a local resume analyser that compares resumes with job descriptions, detects skill gaps, and exports a PDF report. Supports OCR for PDF, DOCX, and image inputs.
 
-**Environment**
+**Tools:** Python, FastAPI, LM Studio, Llama 3.1, Tesseract OCR
 
-`Linux` `Arch Linux` `Windows`
+## Skills
 
----
+**Languages:** Python, C, JavaScript, SQL, HTML, CSS  
+**Frameworks & Libraries:** FastAPI, React, Vite, Tailwind CSS, scikit-learn, pandas, NumPy, OpenCV, MediaPipe, Pydantic  
+**Tools & Platforms:** Git, Docker, Linux, Power BI, Figma, MCP, LM Studio, Ollama  
+**Databases:** SQLite, SQL
 
-## Projects
+## Certifications & Highlights
 
-### AI Resume Critiquer
-An AI-powered resume analysis project that evaluates resumes against job descriptions and provides feedback on skills, relevance, and presentation.
-
-**Tech:** HTML · CSS · JavaScript · AI/LLMs
-
-### Gesture Action Motion Engine
-A Python project exploring gesture-based interaction and motion recognition.
-
-**Tech:** Python · Computer Vision
-
-### Quant-Edge
-A JavaScript-based project focused on quantitative and data-driven applications.
-
-**Tech:** JavaScript
+- IBM UI/UX Designer Professional Certificate — IBM & SkillUp (Coursera)
+- Google Cybersecurity Professional Certificate — Google (Coursera)
+- AI Project Competition — AI Conclave 2026
+- IBM Bob 2.0 Hackathon participant
+- HackerRank Python — 5-star badge
+- C Programming Bootcamp — Udemy
+- Wadhwani Foundation Ignite Bootcamp
 
 ---
 
-## Currently Learning
-
-- Artificial Intelligence
-- Machine Learning
-- Local LLMs
-- Software Engineering
-- Linux & Systems
-- Automation
-- Data Structures & Algorithms
-
----
-
-## What I'm Working On
-
-Currently building projects around:
-
-- Artificial Intelligence & Machine Learning
-- Local LLMs
-- Software Development
-- Linux & Systems
-- Automation
-- Data Structures & Algorithms
-
----
-
-> Build it. Break it. Understand it. Build it better.
-
-<p align="center">
-  <i>Always learning. Always building.</i>
-</p>
+[LinkedIn](https://www.linkedin.com/in/aryan-panigrahi/) · [GitHub](https://github.com/aryan-panigrahi)
